@@ -1,0 +1,23 @@
+#include<iostream>
+using namespace std;
+
+void tem(){
+	int i=0;
+	i,
+	return;
+}
+int main(){
+	bool -a,_,_adk,3c,luck3;
+	if(luck3==0){
+		luck3=3;
+	}
+	string str="12345",str1="123\te\"";
+	char s='\'';
+	double a=-3+4i;
+	float b=0.32,c=-0.32,d=0.4e+3;
+	c=-2147483680;d=-0.4E+3;
+	for(int i=0;i<100;i++){
+		continue;
+	}
+	return 0;
+}
